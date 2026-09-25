@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://a.about.kapisa.xyz/sitemap.xml
+Sitemap: https://a.kapisa.xyz/sitemap.xml
